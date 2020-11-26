@@ -1,7 +1,0 @@
-pagefactory\page\XistoreBasketPage.class
-pagefactory\page\XistoreCatalogPage.class
-pagefactory\test\XistoreTest.class
-waits\CustomConditions$1.class
-pagefactory\page\XistoreBasketPricePage.class
-waits\CustomConditions.class
-pagefactory\ResaultOfModification.class
