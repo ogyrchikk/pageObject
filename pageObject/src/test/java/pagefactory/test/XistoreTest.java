@@ -16,7 +16,7 @@ public class XistoreTest {
     private WebDriver driver;
     @BeforeTest
     public void browserSetup(){
-        System.setProperty("webdriver.chrome.driver", "C:/q/chromedriver.exe");
+        //System.setProperty("webdriver.chrome.driver", "C:/q/chromedriver.exe");
         driver=new ChromeDriver();
     }
     @Test
