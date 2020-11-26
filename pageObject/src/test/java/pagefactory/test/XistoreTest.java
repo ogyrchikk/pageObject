@@ -27,7 +27,7 @@ public class XistoreTest {
                  .choiseItem()
                  .choiseModificationAndFillTheBasket()
                  .confirmationOfTheOrder()
-                 .fillInAllInputs("Ковтун Андрей Николаевич","kovtyn780919019@gmail.com","445427822","Рафиева 8")
+                 .fillInAllInputs("Ковтун Андрей Николаевич","kovtyn7850919019@gmail.com","445427822","Рафиева 8")
                  .confirm().getTextFromConfirm();
         Assert.assertTrue("error",textFromPage.equals("ЗАКАЗ СФОРМИРОВАН"));
     }
